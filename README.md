@@ -1,3 +1,4 @@
 # repositorio_1
 curso GitHub;
-como usar esto?? 
+como usar esto? 
+ya se subio
