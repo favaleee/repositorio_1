@@ -1,2 +1,2 @@
 # repositorio_1
-curso github
+curso GitHub
