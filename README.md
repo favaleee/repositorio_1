@@ -1,5 +1,5 @@
 # repositorio_1
-curso GitHub;
-como usar esto? 
-ya se subio.
-final de readme.
+Curso GitHub;
+Como Usar Esto? 
+Ya Se Subio.
+Final De Readme.
